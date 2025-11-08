@@ -1,1 +1,1 @@
-#Syika
+SYIKA
